@@ -1,0 +1,16 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;    
+}
+.head
+{
+    background-color: red;
+    
+}
+p{
+    background-color: blue;
+    font-style: italic;
+    font-style: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
